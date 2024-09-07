@@ -12,4 +12,6 @@
 
 <h6>6. Document Object Model (DOM)</h6>
 
+<h6>7. Events</h6>
+
 <!-- - <a style="text-decoration:none" href="">Notes</a> -->
