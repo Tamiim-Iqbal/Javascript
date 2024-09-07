@@ -1,0 +1,13 @@
+div{
+    height: 150px;
+    width: 150px;
+    color: white;
+    background-color: dodgerblue;
+    padding: 5px;
+    border: 2px solid black;
+}
+
+.newClass {
+    background-color: yellowgreen;
+    width: fit-content;
+}
